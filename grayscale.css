@@ -280,12 +280,12 @@ body {
 }
 
 a {
-  color: #64a19d;
+  color: #fc9700;
 }
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #3c6360;
+  color: #e28904;
 }
 
 .bg-black {
